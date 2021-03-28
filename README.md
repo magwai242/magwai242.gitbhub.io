@@ -1,2 +1,2 @@
-# magwai242.gitbhub.io
+# magwai242.github.io
 website for practice from Coursera course
